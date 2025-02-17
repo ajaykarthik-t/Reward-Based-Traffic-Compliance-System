@@ -1,0 +1,6 @@
+timestamp,license_plate,confidence,violation_type,image_path,username,points
+2025-02-17 09:04:07,11460,0.5325209805197154,License Plate Detection,./detections/plate_20250217_090407_b5519ee5.jpg,,
+2025-02-17 09:13:05,LOS,0.2847667076074496,Violation - No Helmet,./detections/plate_20250217_091305_23d3908d.jpg,Marlena Salais,90.0
+2025-02-17 09:19:34,APOZAE.3144,0.1908661080449356,Violation - No Helmet,./detections/plate_20250217_091934_deb1f3d1.jpg,Donald Brinkley,10.0
+2025-02-17 09:21:14,99H,0.0143005535286176,Violation - No Helmet,./detections/plate_20250217_092114_5294524d.jpg,Melissa Herman,90.0
+2025-02-17 09:21:31,10668,0.4543359616956576,Violation - No Helmet,./detections/plate_20250217_092131_4a68742f.jpg,Lowell Saenz,90.0
